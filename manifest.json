@@ -1,12 +1,14 @@
 {
-    "name": "karaoke_do_hugo",
-    "short_name": "karaoke_do_hugo",
+    "name": "Karaokê do Hugo",
+    "short_name": "Karaokê",
+    "lang": "pt-BR",
     "start_url": ".",
+    "scope": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "background_color": "#0E0B1A",
+    "theme_color": "#0E0B1A",
+    "description": "Karaokê de festa: fila, perfis, letra para treinar e placar, direto do navegador. Adicione à tela de início e vira um app.",
+    "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
         {
